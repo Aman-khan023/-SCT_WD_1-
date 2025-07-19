@@ -1,0 +1,62 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.my-1{
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+.px-2{
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.text-blue{
+    color: rgb(214, 43, 226);
+}
+
+.btn{
+    padding: 4px 10px;
+    border: 2px solid black;
+    border-radius: 12px;
+    cursor: pointer;
+    color: white;
+    background-color: blueviolet;
+}
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
